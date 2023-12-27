@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/trap-game-cube- FP.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
